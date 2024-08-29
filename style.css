@@ -38,3 +38,7 @@ body {
   background-image: url("buty-girl.jpg");
   border-radius: 10px;
 }
+
+.box.hovered {
+  border: 2px dashed #333;
+}
